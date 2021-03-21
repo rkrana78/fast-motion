@@ -1,0 +1,30 @@
+.google-btn {
+    background-color: #49ac4c;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 20px;
+    
+}
+.facebook-btn {
+    background-color: #497dcc;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.user-login {
+    border: 1px solid #C82333;
+    border-radius: 1px;
+    padding: 20px 30px;
+    width: 400px;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+.user-login hr {
+    width: 250px;
+}

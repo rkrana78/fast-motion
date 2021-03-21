@@ -79,7 +79,7 @@ const Destination = () => {
 
                 }
             </div>
-            <div className="col-md-6">
+            <div className="col-md-6 g-map">
                 <GoogleMap/>
                 
             </div>
